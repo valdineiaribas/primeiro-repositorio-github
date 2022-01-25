@@ -1,0 +1,12 @@
+Algoritmo - Sequencia de passos para resolver um problema;
+
+Pseudocódigo - Forma genérica de escrever um algoritmo utilizando linguagem simples;
+
+Fluxograma - Expressão grafica de um algoritmo;
+
+Variável - Espaço na memória destinado a dados que são modificados durante a execução do algoritmo;
+
+Classificação de variáveis e constantes: Numéricas, caracteres, alfanuméricas e lógicas;
+
+Linguagem de programação - Meio de comunicação entre humanos e computadores.
+

@@ -1,0 +1,21 @@
+SCRUM é um dos frameworks de gerenciamento de projetos ágeis.
+
+Rapidez em responder a mudanças utilizando equipes pequenas e multidiciplinares.
+
+Os pilares são: Transparência, adaptação e inspeção.
+
+Papéis e responsabilidades: 
+- Product owner (PO): Cria as funcionalidades do software e prioriza de acordo com o valor do produto~;
+- Scrum Master (SM): Age como facilitador auxiliando o PO e a equipe;
+- Time de desenvolvimento (DEV): Entrega o produto funcionando.
+
+Cerimônias do SCRUM: 
+- Planejamento da sprint;
+- Reuniões diárias (Daily Meeting);
+- Revisão da sprint;
+- Retrospectiva da sprint.
+
+Analisando e definindo prioridades:Épico é objetivo macro a ser atendido que é quebrado em estórias. 
+Tarefa consiste no conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória.
+
+ 

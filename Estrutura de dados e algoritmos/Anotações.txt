@@ -1,0 +1,9 @@
+Principais tipos de estrutruras de dados: 
+- Vetores e matrizes;
+- Registro;
+- Lista;
+- Pilha;
+- Fila;
+- Árvore;
+- Tabela hash;
+- Grafos.

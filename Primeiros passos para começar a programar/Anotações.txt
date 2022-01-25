@@ -1,0 +1,48 @@
+
+Análise: estudo e definição dos dados de entrada e saída;
+
+Algoritmo: descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo;
+
+Codificação: o algoritmo é codificado de acordo com a linguagem de programação escolhida.
+
+Funções: são blocos de instruções que realizam atividades específicas.
+
+Linguagens de programação: 
+
+Assembly
+- Baixo nível;
+- Primeira linguagem (1949).
+
+Cobol, Fortran...
+- Decada de 50 durante a operação do ENIAC.
+
+C, Prolog, ML...
+- Decadas de 60 e 70.
+
+Java, Phyton, C#, Javascript, Ruby...
+-Decada de 90;
+- Linguagens de alto nível.
+
+Linguagem de programação: metodo padronizado composto por um conjunto de regras sintáticas 
+ou semânticas de um código fonte.
+
+Código fonte pode ser interpretado ou traduzido.
+
+Traduzidas: C++, Java...
+Interpretadas: Phyton, Javascript, Ruby...
+
+Processo de tradução: Programa de alto nível (programa fonte)-> compilador -> Linguagem de baixo nível
+(programa objeto).
+
+Paradigmas de programação:
+Maneira bem definida de resolução de problemas utilizando linguagem de programção.
+
+Paradigma estruturado: 
+Ex: C
+- Para problemas simples e aprender a programar.
+
+Paradigma de orientação a objetos:
+- Análogo ao mundo real;
+- Reuso de códigos;
+- Definição de códigos.
+ 
